@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.josephali.adaptermap">
+
+    <application
+        android:name=".MyApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AdapterMap">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <meta-data
+            android:name="com.huawei.hms.client.appid"
+            android:value="appid=104743703" />
+        <!-- Replace xxx with the actual payment ID, which can be obtained from the app's IAP information. -->
+        <meta-data
+            android:name="com.huawei.hms.client.cpid"
+            android:value="cpid=2640968000020667012" />
+    </application>
+
+</manifest>
