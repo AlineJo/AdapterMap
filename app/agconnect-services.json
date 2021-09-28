@@ -16,22 +16,22 @@
 		"SG_back":"connect-dra.dbankcloud.cn"
 	},
 	"client":{
-		"cp_id":"2640968000020667012",
-		"product_id":"737518067793576521",
-		"client_id":"721638247775615872",
-		"client_secret":"1369E85C157B9162DF114213B6353EE2999213E75B206E4E429DDDBDD41237CF",
-		"project_id":"737518067793576521",
-		"app_id":"104761721",
-		"api_key":"CwEAAAAAnGANf7c75pyGyQkj6P/ifKDw8iwrAKDRRGjW7TgNCOY4+EkzfdEAHFDo7MGSHvHu5eAqd72sa0M/azk6vbSpobSueQQ=",
-		"package_name":"com.marsa.store"
+		"cp_id":"",
+		"product_id":"",
+		"client_id":"",
+		"client_secret":"",
+		"project_id":"",
+		"app_id":"",
+		"api_key":"",
+		"package_name":""
 	},
 	"oauth_client":{
-		"client_id":"104761721",
+		"client_id":"",
 		"client_type":1
 	},
 	"app_info":{
-		"app_id":"104761721",
-		"package_name":"com.marsa.store"
+		"app_id":"",
+		"package_name":""
 	},
 	"service":{
 		"analytics":{
@@ -53,17 +53,17 @@
 	"configuration_version":"3.0",
 	"appInfos":[
 		{
-			"package_name":"com.marsa.store",
+			"package_name":"",
 			"client":{
-				"app_id":"104761721"
+				"app_id":""
 			},
 			"app_info":{
-				"package_name":"com.marsa.store",
-				"app_id":"104761721"
+				"package_name":"",
+				"app_id":""
 			},
 			"oauth_client":{
 				"client_type":1,
-				"client_id":"104761721"
+				"client_id":""
 			}
 		}
 	]
